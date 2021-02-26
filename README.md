@@ -12,4 +12,4 @@ cargo run -- -j `number_of_threads` `ip`
 * [rust](https://www.rust-lang.org/)
 
 
-Used as a project to speed the rust learning.
+Used as a project to speed the rust learning, fast and mem-safe.
